@@ -144,7 +144,7 @@ window.$docsify = {
     nextText: 'Next',
   },
   plugins: [
-    EditOnGithubPlugin.create('ttps://github.com/gigamaster/documentation/blob/master/'),
+    EditOnGithubPlugin.create('https://github.com/gigamaster/documentation/blob/master/'),
     function (hook) {
       var footer = [
         // '<hr/>',
