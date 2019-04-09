@@ -26,6 +26,13 @@ The X-Codex Documentation provides information about how to delivery and update 
 
 </details>
 
+<details>
+<summary style="cursor: pointer;">Tutorials</summary>
+
+The X-Codex Documentation provides Tutorials about XCL design and development.
+
+</details>
+
 -----
 
 # <span class="iconify" data-icon="mdi:cube-outline"></span> Welcome
