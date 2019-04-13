@@ -1,13 +1,16 @@
 {
-  "files": {
-    "index.html": {
-      "content": "console.log('hello!')",
-      "isBinary": false
-    },
-    "package.json": {
-      "content": {
-        "dependencies": {}
-      }
-    }
-  }
+  "name": "docs",
+  "version": "1.0.0",
+  "description":
+    "A docs test",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["docs", "theme", "css", "themeable", "custom"]
 }
